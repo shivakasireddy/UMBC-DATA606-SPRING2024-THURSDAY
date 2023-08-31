@@ -1,4 +1,4 @@
-![alt text]([https://github.com/shivakasireddy/UMBC-DATA606-FALL2023-THURSDAY/blob/main/IMG_6625.jpg])
+![alt text](https://github.com/shivakasireddy/UMBC-DATA606-FALL2023-THURSDAY/blob/main/IMG_6625.jpg)
 
 # **KASIREDDY SHIVARAMA KRISHNA REDDY**
 
