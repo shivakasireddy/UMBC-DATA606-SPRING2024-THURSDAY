@@ -146,8 +146,8 @@ Handles non-linear relationships effectively.
 
 - Originally designed for classification, but can be used in regression (SVR). It works well with non-linear relationships and can model complex relationships between the dependent variable and independent variables.
 <div style="text-align: center;">
-  <img "https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/DOCS/SVM1.png" alt="Streamlit Image 1" width="600" />
-  <img "https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/DOCS/SVM1.png" alt="Streamlit Image 1" width="600" />
+  <img src="https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/DOCS/SVM1.png" alt="Streamlit Image 1" width="600" />
+  <img src="https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/DOCS/SVM2.png" alt="Streamlit Image 1" width="600" />
   
 </div>
 
