@@ -104,6 +104,13 @@ Smoothens the data to identify trends.
 
 - A moving average is a statistical technique used to analyze time series data by calculating averages of different subsets of the full data set. It is commonly used in financial markets to smooth out short-term fluctuations and highlight longer-term trends or cycles.
 
+<div style="text-align: center;">
+  <img src="https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/DOCS/Movingaverages.png" alt="Streamlit Image 1" width="700" />
+  
+</div>
+
+
+
 ### 3. ARIMA (Autoregressive Integrated Moving Average): 
 Suitable for non-stationary data, forecasting based on past values and errors.
 
