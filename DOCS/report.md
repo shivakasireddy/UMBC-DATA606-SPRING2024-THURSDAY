@@ -68,55 +68,67 @@ This project aims to analyze the price performance of Microsoft (MSFT) and JP Mo
 
 Accurate prediction of stock prices is critical for investors, traders, and financial institutions as it helps optimize strategies and manage risks. By forecasting potential future price movements, stakeholders can make better-informed decisions regarding buying, selling, or holding assets.
 
-Here's the markdown code for the provided content:
-
-```markdown
 # Streamlit:
-- **Streamlit** is an open-source Python library that makes it easy to create and share beautiful, custom web apps for machine learning and data science.
-- It helps in the project to create a web page and communicate with the model for prediction.
 
-![alt text](https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/DOCS/streamlit.png)
+- Streamlit is an open-source Python library that makes it easy to create and share beautiful, custom web apps for machine learning and data science.
+- It helps in the project to create a web page and communicate with model for prediction.
 
-# Models Used for Prediction:
+## Models Used for Prediction:
 
-1. **Linear Regression**: Evaluates the relationship between stock price and independent variables.
-   - Useful for understanding the relationship between the dependent variable (like a stock price) and one or more independent variables. It’s simple and provides clear coefficients indicating the impact of each variable.
+### 1. Linear Regression: 
+Evaluates the relationship between stock price and independent variables.
 
-2. **Moving Averages**: Smoothens the data to identify trends.
-   - A moving average is a statistical technique used to analyze time series data by calculating averages of different subsets of the full data set. It is commonly used in financial markets to smooth out short-term fluctuations and highlight longer-term trends or cycles.
+- Useful for understanding the relationship between the dependent variable (like a stock price) and one or more independent variables. It’s simple and provides clear coefficients indicating the impact of each variable.
 
-3. **ARIMA (Autoregressive Integrated Moving Average)**: Suitable for non-stationary data, forecasting based on past values and errors.
-   - Good for forecasting time series data based on its own past values (autoregressive) and a moving average of past forecast errors. It’s particularly useful for non-stationary data.
+### 2. Moving Averages: 
+Smoothens the data to identify trends.
 
-4. **Random Forest Regression**: Captures complex relationships via ensemble learning.
-   - A type of ensemble learning model that builds multiple decision trees and merges their results to get a more accurate and stable prediction. It’s great for capturing complex, non-linear relationships.
+- A moving average is a statistical technique used to analyze time series data by calculating averages of different subsets of the full data set. It is commonly used in financial markets to smooth out short-term fluctuations and highlight longer-term trends or cycles.
 
-5. **LSTM (Long Short-Term Memory)**: Ideal for sequential and time-series data.
-   - LSTM networks are a type of recurrent neural network (RNN) capable of learning long-term dependencies. They are particularly well-suited for tasks where context over extended periods is crucial, such as language modeling, time series forecasting, and speech recognition.
+### 3. ARIMA (Autoregressive Integrated Moving Average): 
+Suitable for non-stationary data, forecasting based on past values and errors.
 
-6. **SVM (Support Vector Machines)**: Handles non-linear relationships effectively.
-   - Originally designed for classification, but can be used in regression (SVR). It works well with non-linear relationships and can model complex relationships between the dependent variable and independent variables.
+- Good for forecasting time series data based on its own past values (autoregressive) and a moving average of past forecast errors. It’s particularly useful for non-stationary data.
 
-7. **Principal Component Analysis (PCA)**: Reduces dimensionality and noise.
-   - Dimensionality reduction technique. It’s useful for simplifying the dataset, reducing noise, and identifying the most important variables that explain variability in your data, which can improve the performance of other models.
+### 4. Random Forest Regression: 
+Captures complex relationships via ensemble learning.
 
-# Analysis Summary:
+- A type of ensemble learning model that builds multiple decision trees and merges their results to get a more accurate and stable prediction. It’s great for capturing complex, non-linear relationships.
+
+### 5. LSTM (Long Short-Term Memory): 
+Ideal for sequential and time-series data.
+
+- LSTM networks are a type of recurrent neural network (RNN) capable of learning long-term dependencies. They are particularly well-suited for tasks where context over extended periods is crucial, such as language modeling, time series forecasting, and speech recognition.
+
+### 6. SVM (Support Vector Machines):  
+Handles non-linear relationships effectively.
+
+- Originally designed for classification, but can be used in regression (SVR). It works well with non-linear relationships and can model complex relationships between the dependent variable and independent variables.
+
+### 7. Principal Component Analysis (PCA): 
+Reduces dimensionality and noise.
+
+- Dimensionality reduction technique. It’s useful for simplifying the dataset, reducing noise, and identifying the most important variables that explain variability in your data, which can improve the performance of other models.
+
+## Analysis Summary:
+
 1. **Correlation**: Microsoft shows a higher correlation with the S&P 500, indicating movements more aligned with the overall market, which could provide predictability in market trends.
 2. **Beta**: Microsoft's higher Beta suggests it is more volatile, offering potentially higher risks and returns.
 3. **Sharpe Ratio**: J.P. Morgan boasts a higher Sharpe Ratio, indicating superior risk-adjusted returns compared to Microsoft.
 
-# Conclusion:
+## Conclusion:
 J.P. Morgan (JPM) is preferred for better risk-adjusted returns as per the Sharpe Ratio, but Microsoft might appeal to those seeking alignment with broader market movements.
 
-# Benefits:
+## Benefits:
 In financial data science and the stock market, these models can help:
+
 - Forecast future stock prices or movements.
 - Understand factors influencing price changes.
 - Estimate the risk or volatility.
 - Optimize investment portfolios.
 - Detect and capitalize on market inefficiencies.
 - Conduct algorithmic trading.
-```
+
 
 
 
