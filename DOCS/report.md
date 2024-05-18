@@ -115,6 +115,10 @@ Smoothens the data to identify trends.
 Suitable for non-stationary data, forecasting based on past values and errors.
 
 - Good for forecasting time series data based on its own past values (autoregressive) and a moving average of past forecast errors. It’s particularly useful for non-stationary data.
+<div style="text-align: center;">
+  <img src="https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/DOCS/ARIMA.png" alt="Streamlit Image 1" width="600" />
+  
+</div>
 
 ### 4. Random Forest Regression: 
 Captures complex relationships via ensemble learning.
