@@ -136,15 +136,29 @@ Ideal for sequential and time-series data.
 
 - LSTM networks are a type of recurrent neural network (RNN) capable of learning long-term dependencies. They are particularly well-suited for tasks where context over extended periods is crucial, such as language modeling, time series forecasting, and speech recognition.
 
+<div style="text-align: center;">
+  <img src="https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/DOCS/LSTM.png" alt="Streamlit Image 1" width="600" />
+  
+</div>
+
 ### 6. SVM (Support Vector Machines):  
 Handles non-linear relationships effectively.
 
 - Originally designed for classification, but can be used in regression (SVR). It works well with non-linear relationships and can model complex relationships between the dependent variable and independent variables.
+<div style="text-align: center;">
+  <img src="https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/DOCS/LSTM.png" alt="Streamlit Image 1" width="600" />
+  
+</div>
 
 ### 7. Principal Component Analysis (PCA): 
 Reduces dimensionality and noise.
 
 - Dimensionality reduction technique. It’s useful for simplifying the dataset, reducing noise, and identifying the most important variables that explain variability in your data, which can improve the performance of other models.
+
+<div style="text-align: center;">
+  <img src="https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/DOCS/LSTM.png" alt="Streamlit Image 1" width="600" />
+  
+</div>
 
 ## Analysis Summary:
 
