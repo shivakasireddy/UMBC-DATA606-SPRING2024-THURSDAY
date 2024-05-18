@@ -75,6 +75,7 @@ Accurate prediction of stock prices is critical for investors, traders, and fina
 
 
 ![alt text](https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/DOCS/streamlit.png)
+![alt text](https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/DOCS/Streamlit2.png)
 
 
 ## Models Used for Prediction:
