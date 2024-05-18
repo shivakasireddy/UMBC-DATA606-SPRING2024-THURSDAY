@@ -73,7 +73,8 @@ Accurate prediction of stock prices is critical for investors, traders, and fina
 - Streamlit is an open-source Python library that makes it easy to create and share beautiful, custom web apps for machine learning and data science.
 - It helps in the project to create a web page and communicate with model for prediction.
 
-![alt text](https://github.com/shivakasireddy/UMBC-DATA606-FALL2023-THURSDAY/blob/main/IMG_6625.jpg)
+
+![alt text](https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/DOCS/streamlit.png)
 
 
 ## Models Used for Prediction:
