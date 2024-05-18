@@ -167,6 +167,48 @@ Reduces dimensionality and noise.
 2. **Beta**: Microsoft's higher Beta suggests it is more volatile, offering potentially higher risks and returns.
 3. **Sharpe Ratio**: J.P. Morgan boasts a higher Sharpe Ratio, indicating superior risk-adjusted returns compared to Microsoft.
 
+## Correlation Analysis
+
+The correlation analysis between Microsoft and the S&P 500, and JP Morgan and the S&P 500 reveals the following insights:
+- The correlation coefficient between Microsoft and the S&P 500 is 0.98. This indicates a very strong positive relationship, suggesting that Microsoft's stock price closely follows the market trends represented by the S&P 500.
+- The correlation coefficient between JP Morgan and the S&P 500 is 0.74. Although this is also a strong positive relationship, it is less pronounced than that of Microsoft. This suggests that JP Morgan's stock price, while still following market trends, has more independent movement compared to Microsoft.
+
+These high correlations indicate that both companies' stock prices are influenced significantly by the broader market movements.
+
+## Beta Coefficient Analysis
+
+The Beta Coefficient is a measure of a stock's volatility in relation to the market:
+
+**Beta Coefficient:**
+- Microsoft Beta: 1.21
+- JP Morgan Beta: 1.12
+
+Both stocks have betas above 1, indicating they are more volatile than the overall market.
+
+- Microsoft's Beta is 1.21, indicating that it is 21% more volatile than the market. This suggests that when the market moves, Microsoft's stock price is likely to move in the same direction but with greater intensity.
+- JP Morgan's Beta is 1.12, indicating that it is 12% more volatile than the market. This also implies a higher sensitivity to market movements but to a slightly lesser extent than Microsoft.
+
+Both stocks having a Beta greater than 1 implies that they are more volatile compared to the overall market.
+
+## Sharpe Ratio Analysis
+
+**Sharpe Ratio:**
+- Microsoft: 0.06
+- JP Morgan: 0.56
+- S&P 500: 0.52
+
+The Sharpe Ratio comparison suggests that JP Morgan offers better risk-adjusted returns.
+
+The Sharpe Ratio measures the risk-adjusted return of an investment:
+- Microsoft's Sharpe Ratio is 0.06, which indicates a relatively low risk-adjusted return.
+- JP Morgan's Sharpe Ratio is 0.56, which is significantly higher than Microsoft's, suggesting better risk-adjusted returns.
+- The S&P 500 has a Sharpe Ratio of 0.52, which serves as a benchmark.
+
+The comparison of Sharpe Ratios suggests that JP Morgan offers better returns for the level of risk taken compared to both Microsoft and the S&P 500.
+
+The analysis indicates that Microsoft has a stronger correlation with market trends compared to JP Morgan. Both companies exhibit higher volatility than the market average, with Microsoft being the more volatile of the two. When considering risk-adjusted returns, JP Morgan stands out as offering superior performance relative to both Microsoft and the broader market. This makes JP Morgan a potentially more attractive investment from a risk-adjusted return perspective.
+
+
 ## Conclusion:
 J.P. Morgan (JPM) is preferred for better risk-adjusted returns as per the Sharpe Ratio, but Microsoft might appeal to those seeking alignment with broader market movements.
 
