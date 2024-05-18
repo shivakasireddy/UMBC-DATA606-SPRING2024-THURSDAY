@@ -125,6 +125,12 @@ Captures complex relationships via ensemble learning.
 
 - A type of ensemble learning model that builds multiple decision trees and merges their results to get a more accurate and stable prediction. It’s great for capturing complex, non-linear relationships.
 
+<div style="text-align: center;">
+  <img src="https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/DOCS/RandomForest.png" alt="Streamlit Image 1" width="600" />
+  
+</div>
+
+
 ### 5. LSTM (Long Short-Term Memory): 
 Ideal for sequential and time-series data.
 
