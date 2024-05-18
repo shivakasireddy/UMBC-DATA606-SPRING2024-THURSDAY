@@ -156,7 +156,7 @@ Reduces dimensionality and noise.
 - Dimensionality reduction technique. It’s useful for simplifying the dataset, reducing noise, and identifying the most important variables that explain variability in your data, which can improve the performance of other models.
 
 <div style="text-align: center;">
-  <img src="https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/DOCS/LSTM.png" alt="Streamlit Image 1" width="600" />
+  <img src="https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/DOCS/PCA.png" alt="Streamlit Image 1" width="600" />
   
 </div>
 
