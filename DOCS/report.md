@@ -5,7 +5,7 @@ Prepared for UMBC Data Science Master Degree Capstone by Dr. Chaoji (Jay) Wang -
 **Author:** [Shivaramakrishna Reddy Kasireddy](https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/README.md)
 
 [Linkedin](https://www.linkedin.com/in/shivakasireddy/)
-[Presentation](https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/DATA/MG67053_CAPSTONE_PPT.pptx)
+[Presentation](https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/DATA/MG67053_CAPSTONE_FINALPPT.pptx)
 **Youtube Video**
 
 
