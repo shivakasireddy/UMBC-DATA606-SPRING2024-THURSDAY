@@ -10,7 +10,7 @@ Prepared for UMBC Data Science Master Degree Capstone by Dr. Chaoji (Jay) Wang -
 
 
 
-## Background
+## 1.Background
 
 ### 1. What is it about?
 
@@ -31,7 +31,7 @@ This analysis matters because accurate stock price prediction is crucial in fina
 
 This analysis is relevant because it provides practical insights for stakeholders looking to maximize their returns while minimizing risk in today's dynamic market. The comparative study helps investors choose the appropriate stocks based on their risk appetite and investment strategy. Financial models, including ARIMA, LSTM, and others, offer a multi-dimensional perspective for understanding the drivers of market movements, contributing to the broader field of financial data science.
 
-## Dataset:
+## 2.Dataset:
 
 **Dataset source:** Yahoo Finance (S&P 500 (^GSPC)), Microsoft (MSFT), and JP Morgan (JPM) historical data for the past 10 years  
 **Link:** [Yahoo Finance](https://finance.yahoo.com/quote/%5EGSPC/history?period1=1550188800&period2=1707955200&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true)  
@@ -39,7 +39,7 @@ This analysis is relevant because it provides practical insights for stakeholder
 **Rows:** 2516 (all files together)  
 **Columns:** 6
 
-## Exploratory Data Analysis (EDA)
+## 3.Exploratory Data Analysis (EDA)
 
 ### Overview
 
@@ -69,7 +69,7 @@ This project aims to analyze the price performance of Microsoft (MSFT) and JP Mo
 Accurate prediction of stock prices is critical for investors, traders, and financial institutions as it helps optimize strategies and manage risks. By forecasting potential future price movements, stakeholders can make better-informed decisions regarding buying, selling, or holding assets.
 
 
-## Models Used for Prediction:
+## 4.Models Used for Prediction:
 
 ### 1. Linear Regression: 
 Evaluates the relationship between stock price and independent variables.
@@ -294,7 +294,7 @@ Reduces dimensionality and noise.
 PCA demonstrates that the majority of the variance in S&P 500 and Microsoft stock prices is captured by the first principal component, simplifying data analysis and potentially enhancing model performance.
 
 
-## Analysis Summary:
+## 5.Analysis Summary:
 
 1. **Correlation**: Microsoft shows a higher correlation with the S&P 500, indicating movements more aligned with the overall market, which could provide predictability in market trends.
 2. **Beta**: Microsoft's higher Beta suggests it is more volatile, offering potentially higher risks and returns.
@@ -344,7 +344,7 @@ The analysis indicates that Microsoft has a stronger correlation with market tre
 
 ## Conclusion:
 J.P. Morgan (JPM) is preferred for better risk-adjusted returns as per the Sharpe Ratio, but Microsoft might appeal to those seeking alignment with broader market movements.
-# Application of the Trained Models
+# 6.Application of the Trained Models
 # Streamlit:
 
 - Streamlit is an open-source Python library that makes it easy to create and share beautiful, custom web apps for machine learning and data science.
@@ -365,7 +365,7 @@ In financial data science and the stock market, these models can help:
 - Detect and capitalize on market inefficiencies.
 - Conduct algorithmic trading.
 
-## References
+## 7.References
 
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
 - [A Comprehensive Guide to Time Series Analysis](https://www.analyticsvidhya.com/blog/2021/10/a-comprehensive-guide-to-time-series-analysis/)
