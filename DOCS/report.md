@@ -93,7 +93,7 @@ Evaluates the relationship between stock price and independent variables.
 - Useful for understanding the relationship between the dependent variable (like a stock price) and one or more independent variables. It’s simple and provides clear coefficients indicating the impact of each variable.
 
 <div style="text-align: center;">
-  <img src="https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/DOCS/LR.png" alt="Streamlit Image 1" width="500" />
+  <img src="https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/DOCS/LR.png" alt="Streamlit Image 1" width="700" />
   
 </div>
 
