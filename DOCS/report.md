@@ -199,6 +199,13 @@ Captures complex relationships via ensemble learning.
   <img src="https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/DOCS/RandomForest.png" alt="Streamlit Image 1" width="600" />
   
 </div>
+## Mean Squared Error (MSE)
+- **S&P 500:** The MSE is 113500.77, indicating a significant discrepancy between actual and predicted values.
+- **Microsoft:** The MSE is 1102.30, showing better predictive accuracy compared to the S&P 500.
+
+## Visual Analysis
+- **S&P 500:** The actual values trend upwards, while the predicted values remain flat and lower, indicating poor model performance.
+- **Microsoft:** The actual values also trend upwards with fluctuations, and the predicted values, although flatter, reflect some variability.
 
 
 ### 5. LSTM (Long Short-Term Memory): 
