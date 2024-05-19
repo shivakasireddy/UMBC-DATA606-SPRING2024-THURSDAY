@@ -360,6 +360,13 @@ J.P. Morgan (JPM) is preferred for better risk-adjusted returns as per the Sharp
   <img src="https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/DOCS/streamlit.png" alt="Streamlit Image 1" width="500" />
   <img src="https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/DOCS/Streamlit2.png" alt="Streamlit Image 2" width="500" />
 </div>
+
+# Streamlit App Code
+
+The Streamlit app code for Project  is available in the following GitHub repository:
+
+[Streamlit App Code](https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/DATA/proj2.py)
+
 ## Benefits:
 In financial data science and the stock market, these models can help:
 
