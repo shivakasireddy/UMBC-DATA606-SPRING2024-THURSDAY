@@ -142,6 +142,25 @@ Smoothens the data to identify trends.
   
 </div>
 
+## S&P 500 Trends:
+- Consistent upward trend from 2014 to 2024.
+- Significant dip in early 2020 due to COVID-19, followed by a strong recovery.
+- 50-day and 200-day moving averages indicate both short-term and long-term growth.
+
+## Microsoft Trends:
+- Strong upward trajectory, especially from 2016 onward.
+- Similar dip in early 2020 with a quick recovery.
+- 50-day and 200-day moving averages align with the overall growth trend.
+
+## Moving Averages:
+- 50-day averages reflect short-term trends, while 200-day averages show long-term trends.
+- Both indices show moving averages aligning with actual prices, confirming growth.
+
+## Investment Insights:
+- Positive long-term growth for both S&P 500 and Microsoft.
+- Moving averages are effective for identifying trends and making investment decisions.
+
+
 
 
 ### 3. ARIMA (Autoregressive Integrated Moving Average): 
