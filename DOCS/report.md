@@ -249,6 +249,34 @@ Handles non-linear relationships effectively.
   
 </div>
 
+## Insights
+
+### Mean Squared Error (MSE)
+- **S&P 500:** MSE is 19018.62, showing a notable discrepancy but better than previous models.
+- **Microsoft:** MSE is 174.27, indicating high prediction accuracy.
+
+### Visual Analysis
+#### 1. S&P 500:
+- Predictions (red line) closely follow actual prices (blue line), capturing trends but consistently underestimating values.
+
+#### 2. Microsoft:
+- Predictions align well with actual prices, effectively capturing trends and fluctuations with minor deviations.
+
+### Key Insights
+#### 1. Model Accuracy:
+- The SVM model accurately predicts stock prices, especially for Microsoft, with lower MSE values than previous models.
+
+#### 2. Performance Comparison:
+- Performs better than the Random Forest model and competitively with the LSTM model, particularly for Microsoft.
+
+#### 3. Future Improvements:
+- Fine-tune hyperparameters and incorporate additional features for better accuracy.
+- Regular updates with new data will maintain predictive power.
+
+### Conclusion
+The SVM model effectively predicts stock prices, especially for Microsoft, making it a valuable tool for financial forecasting and investment decisions.
+
+
 #### 7. Principal Component Analysis (PCA): 
 Reduces dimensionality and noise.
 
