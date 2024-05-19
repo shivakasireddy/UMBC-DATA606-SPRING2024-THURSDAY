@@ -354,7 +354,17 @@ The analysis indicates that Microsoft has a stronger correlation with market tre
 
 ## Conclusion:
 J.P. Morgan (JPM) is preferred for better risk-adjusted returns as per the Sharpe Ratio, but Microsoft might appeal to those seeking alignment with broader market movements.
+# Application of the Trained Models
+# Streamlit:
 
+- Streamlit is an open-source Python library that makes it easy to create and share beautiful, custom web apps for machine learning and data science.
+- It helps in the project to create a web page and communicate with model for prediction.
+
+
+<div style="text-align: center;">
+  <img src="https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/DOCS/streamlit.png" alt="Streamlit Image 1" width="500" />
+  <img src="https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/DOCS/Streamlit2.png" alt="Streamlit Image 2" width="500" />
+</div>
 ## Benefits:
 In financial data science and the stock market, these models can help:
 
