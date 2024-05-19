@@ -184,13 +184,13 @@ Suitable for non-stationary data, forecasting based on past values and errors.
 ### 3. Normal Q-Q Plots:
 - Compare residual quantiles to a normal distribution. Points aligning with the reference line suggest normality in residuals. Deviations indicate potential issues.
 
-### 4. Model Diagnostics for Stocks:
+#### 4. Model Diagnostics for Stocks:
 - Specific diagnostics for the S&P 500 and Microsoft show the ARIMA model's performance, including residual plots and Q-Q plots, assessing model fit for these datasets.
 
 ## Conclusion:
 These diagnostics are crucial for evaluating the ARIMA model's adequacy, ensuring reliable forecasts, and identifying areas for potential improvement.
 
-### 4. Random Forest Regression: 
+#### 4. Random Forest Regression: 
 Captures complex relationships via ensemble learning.
 
 - A type of ensemble learning model that builds multiple decision trees and merges their results to get a more accurate and stable prediction. It’s great for capturing complex, non-linear relationships.
@@ -208,7 +208,7 @@ Captures complex relationships via ensemble learning.
 - **Microsoft:** The actual values also trend upwards with fluctuations, and the predicted values, although flatter, reflect some variability.
 
 
-### 5. LSTM (Long Short-Term Memory): 
+#### 5. LSTM (Long Short-Term Memory): 
 Ideal for sequential and time-series data.
 
 - LSTM networks are a type of recurrent neural network (RNN) capable of learning long-term dependencies. They are particularly well-suited for tasks where context over extended periods is crucial, such as language modeling, time series forecasting, and speech recognition.
@@ -218,7 +218,28 @@ Ideal for sequential and time-series data.
   
 </div>
 
-### 6. SVM (Support Vector Machines):  
+## Visual Analysis
+### 1. S&P 500 Prices Prediction:
+- The LSTM model's predictions (red line) closely follow the actual prices (blue line), effectively capturing the upward trend and fluctuations.
+
+### 2. Microsoft Prices Prediction:
+- Similarly, for Microsoft, the predicted prices align well with the actual prices, reflecting the general trend and major movements accurately.
+
+## Key Insights
+### 1. Model Accuracy:
+- The LSTM model provides accurate predictions, effectively capturing trends and fluctuations in both S&P 500 and Microsoft prices.
+
+### 2. Performance Comparison:
+- The LSTM model outperforms previous models (e.g., Random Forest) by closely aligning with actual market prices, showcasing its effectiveness for financial forecasting.
+
+### 3. Future Improvements:
+- Further accuracy can be achieved by fine-tuning hyperparameters, adding more training data, and incorporating additional features.
+
+## Conclusion
+The LSTM model demonstrates strong predictive capabilities for stock prices, making it a valuable tool for financial forecasting and informed investment decisions.
+
+
+#### 6. SVM (Support Vector Machines):  
 Handles non-linear relationships effectively.
 
 - Originally designed for classification, but can be used in regression (SVR). It works well with non-linear relationships and can model complex relationships between the dependent variable and independent variables.
@@ -228,7 +249,7 @@ Handles non-linear relationships effectively.
   
 </div>
 
-### 7. Principal Component Analysis (PCA): 
+#### 7. Principal Component Analysis (PCA): 
 Reduces dimensionality and noise.
 
 - Dimensionality reduction technique. It’s useful for simplifying the dataset, reducing noise, and identifying the most important variables that explain variability in your data, which can improve the performance of other models.
@@ -238,7 +259,7 @@ Reduces dimensionality and noise.
   
 </div>
 
-## Analysis Summary:
+#### Analysis Summary:
 
 1. **Correlation**: Microsoft shows a higher correlation with the S&P 500, indicating movements more aligned with the overall market, which could provide predictability in market trends.
 2. **Beta**: Microsoft's higher Beta suggests it is more volatile, offering potentially higher risks and returns.
