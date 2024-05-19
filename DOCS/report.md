@@ -93,7 +93,7 @@ Evaluates the relationship between stock price and independent variables.
 - Useful for understanding the relationship between the dependent variable (like a stock price) and one or more independent variables. It’s simple and provides clear coefficients indicating the impact of each variable.
 
 <div style="text-align: center;">
-  <img src="https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/DOCS/LR.png" alt="Streamlit Image 1" width="700" />
+  <img src="https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/DOCS/LR.png" alt="Streamlit Image 1" width="800" />
   
 </div>
 
@@ -171,6 +171,24 @@ Suitable for non-stationary data, forecasting based on past values and errors.
   <img src="https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/DOCS/ARIMA.png" alt="Streamlit Image 1" width="600" />
   
 </div>
+## Purpose:
+- The ARIMA model is ideal for forecasting time series data, leveraging its own past values and past forecast errors. It's particularly effective for non-stationary data.
+
+## Key Diagnostics:
+### 1. Standardized Residuals:
+- Display the deviations of actual values from predictions over time. Consistent patterns may indicate model inadequacies.
+
+### 2. Residual Distribution:
+- Histograms and density plots (KDE and normal distribution overlay) show how well residuals follow a normal distribution. A good fit has residuals closely following the normal curve.
+
+### 3. Normal Q-Q Plots:
+- Compare residual quantiles to a normal distribution. Points aligning with the reference line suggest normality in residuals. Deviations indicate potential issues.
+
+### 4. Model Diagnostics for Stocks:
+- Specific diagnostics for the S&P 500 and Microsoft show the ARIMA model's performance, including residual plots and Q-Q plots, assessing model fit for these datasets.
+
+## Conclusion:
+These diagnostics are crucial for evaluating the ARIMA model's adequacy, ensuring reliable forecasts, and identifying areas for potential improvement.
 
 ### 4. Random Forest Regression: 
 Captures complex relationships via ensemble learning.
