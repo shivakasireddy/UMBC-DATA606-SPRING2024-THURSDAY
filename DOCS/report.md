@@ -365,7 +365,17 @@ In financial data science and the stock market, these models can help:
 - Detect and capitalize on market inefficiencies.
 - Conduct algorithmic trading.
 
-## 7.References
+## 7.Conclusion
+
+- **Microsoft**: Exhibits a higher correlation with the S&P 500 and greater volatility, making it suitable for investors seeking alignment with broader market movements and potential higher returns.
+- **JP Morgan**: Offers superior risk-adjusted returns, as indicated by a higher Sharpe Ratio. This makes it an attractive investment for those prioritizing risk management.
+
+
+
+The analysis highlights the strengths and weaknesses of different financial models and machine learning techniques in predicting stock prices. JP Morgan (JPM) is preferred for better risk-adjusted returns, while Microsoft (MSFT) may appeal to those seeking alignment with broader market trends. These insights can help investors make informed decisions, optimize investment strategies, and manage risks effectively in a dynamic market environment.
+
+
+## 8.References
 
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
 - [A Comprehensive Guide to Time Series Analysis](https://www.analyticsvidhya.com/blog/2021/10/a-comprehensive-guide-to-time-series-analysis/)
