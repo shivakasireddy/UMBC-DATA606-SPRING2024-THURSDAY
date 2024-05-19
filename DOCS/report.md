@@ -97,6 +97,39 @@ Evaluates the relationship between stock price and independent variables.
   
 </div>
 
+# 1.a Actual vs. Predicted Microsoft Prices
+
+## Description:
+- **X-axis:** S&P 500 Close Price
+- **Y-axis:** Microsoft Close Price
+- **Data Points:** Blue dots represent actual Microsoft closing prices.
+- **Regression Line:** The red line represents predicted Microsoft prices based on the S&P 500 close prices.
+
+## Insights:
+1. **Positive Correlation:** There is a strong positive correlation between the S&P 500 close price and Microsoft's close price. This indicates that as the S&P 500 index increases, the price of Microsoft shares tends to increase as well.
+2. **Linear Relationship:** The red line signifies a linear regression model, indicating a linear relationship between the S&P 500 and Microsoft prices.
+3. **Model Fit:** The predicted line (red) aligns closely with the actual data points (blue), suggesting a good model fit. However, some variability around the line is observed, indicating that while the model is generally accurate, it doesn't capture all fluctuations.
+
+# 1.b Linear Regression of JPM on S&P 500
+
+## Description:
+- **X-axis:** S&P 500 Close Price
+- **Y-axis:** JP Morgan (JPM) Close Price
+- **Data Points:** Blue dots represent actual JP Morgan closing prices.
+- **Regression Line:** The red line represents the fitted values from the linear regression model.
+
+## Insights:
+1. **Positive Correlation:** Similar to Microsoft, there is a positive correlation between the S&P 500 close price and JP Morgan’s close price. This suggests that JP Morgan’s stock price increases with the S&P 500 index.
+2. **Linear Relationship:** The red fitted line indicates a linear relationship, modeled using linear regression, between the S&P 500 and JP Morgan prices.
+3. **Model Fit:** The fitted line adequately follows the overall trend of the data points, suggesting a reasonable model fit. However, there is notable scatter, indicating some level of variability not captured by the model.
+
+---
+
+- Both Microsoft and JP Morgan stock prices exhibit a positive linear correlation with the S&P 500 close prices, reflecting their movement in tandem with the broader market index.
+- The linear regression models used for both stocks demonstrate good predictive capability, though some variability suggests the presence of additional influencing factors not accounted for in the models.
+- These analyses underscore the utility of linear regression in predicting stock prices based on broader market indices, providing valuable insights for investors and analysts.
+
+
 
 
 ### 2. Moving Averages: 
