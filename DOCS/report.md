@@ -374,6 +374,54 @@ In financial data science and the stock market, these models can help:
 
 The analysis highlights the strengths and weaknesses of different financial models and machine learning techniques in predicting stock prices. JP Morgan (JPM) is preferred for better risk-adjusted returns, while Microsoft (MSFT) may appeal to those seeking alignment with broader market trends. These insights can help investors make informed decisions, optimize investment strategies, and manage risks effectively in a dynamic market environment.
 
+## Limitations of the Work
+
+1. **Data Limitations**: 
+   - The analysis relied on historical data from Yahoo Finance, which may not capture all market nuances or extraordinary events affecting stock prices.
+   - The dataset is limited to the past decade, potentially missing long-term trends or cycles.
+
+2. **Model Limitations**:
+   - Linear regression and some other models used may not capture the complex, non-linear relationships inherent in financial markets.
+   - While LSTM and SVM models showed better performance, their predictions are still not perfect and may require further refinement and validation.
+
+3. **External Factors**:
+   - The analysis does not account for macroeconomic factors, geopolitical events, or company-specific news that can significantly impact stock prices.
+
+## Lessons Learned
+
+1. **Importance of Data Quality**:
+   - High-quality, clean data is crucial for accurate predictions. Ensuring no missing or duplicate values helped maintain the integrity of the analysis.
+
+2. **Model Selection and Performance**:
+   - Different models have their strengths and weaknesses. For instance, LSTM models are effective for capturing trends in time-series data, while linear regression offers simplicity and interpretability.
+   - Ensemble methods like Random Forest can capture complex relationships but may require careful tuning to avoid overfitting.
+
+3. **Evaluation Metrics**:
+   - Using multiple evaluation metrics (e.g., MSE, Sharpe Ratio) provides a more comprehensive assessment of model performance and risk-adjusted returns.
+
+## Future Research Directions
+
+1. **Incorporate Additional Data**:
+   - Include more comprehensive datasets, such as macroeconomic indicators, sentiment analysis from news articles, and social media trends to improve model accuracy.
+
+2. **Enhance Model Complexity**:
+   - Explore more advanced models like Transformer-based architectures for time-series prediction to capture even more complex patterns and dependencies.
+
+3. **Real-Time Prediction**:
+   - Develop models that can predict stock prices in real-time, providing more immediate insights and actionable information for investors.
+
+4. **Risk Management Models**:
+   - Integrate models specifically designed for risk assessment, such as Value at Risk (VaR) or Conditional Value at Risk (CVaR), to provide a more robust risk management framework.
+
+5. **Portfolio Optimization**:
+   - Extend the analysis to portfolio optimization, considering the combined performance of multiple stocks to maximize returns while minimizing risk.
+
+6. **Algorithmic Trading**:
+   - Implement and test the models in algorithmic trading strategies to evaluate their practical performance in live market conditions.
+   
+By addressing these limitations and pursuing these future research directions, the predictive power and practical applicability of financial models can be significantly enhanced.
+
+
 
 ## 8.References
 
