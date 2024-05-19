@@ -365,6 +365,13 @@ In financial data science and the stock market, these models can help:
 - Detect and capitalize on market inefficiencies.
 - Conduct algorithmic trading.
 
+## References
+
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [A Comprehensive Guide to Time Series Analysis](https://www.analyticsvidhya.com/blog/2021/10/a-comprehensive-guide-to-time-series-analysis/)
+- [Yahoo Finance](https://finance.yahoo.com/)
+
+
 
 
 
