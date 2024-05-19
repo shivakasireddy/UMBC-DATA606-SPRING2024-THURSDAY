@@ -74,12 +74,6 @@ Accurate prediction of stock prices is critical for investors, traders, and fina
 - It helps in the project to create a web page and communicate with model for prediction.
 
 
-![alt text](https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/DOCS/streamlit.png)
-![alt text](https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/DOCS/Streamlit2.png)
-
-<img src="https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/DOCS/streamlit.png" alt="Streamlit Image 1" width="500" />
-<img src="https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/DOCS/Streamlit2.png" alt="Streamlit Image 2" width="500" />
-
 <div style="text-align: center;">
   <img src="https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/DOCS/streamlit.png" alt="Streamlit Image 1" width="500" />
   <img src="https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/DOCS/Streamlit2.png" alt="Streamlit Image 2" width="500" />
@@ -163,7 +157,7 @@ Smoothens the data to identify trends.
 
 
 
-### 3. ARIMA (Autoregressive Integrated Moving Average): 
+## 3. ARIMA (Autoregressive Integrated Moving Average): 
 Suitable for non-stationary data, forecasting based on past values and errors.
 
 - Good for forecasting time series data based on its own past values (autoregressive) and a moving average of past forecast errors. It’s particularly useful for non-stationary data.
@@ -190,7 +184,7 @@ Suitable for non-stationary data, forecasting based on past values and errors.
 ## Conclusion:
 These diagnostics are crucial for evaluating the ARIMA model's adequacy, ensuring reliable forecasts, and identifying areas for potential improvement.
 
-#### 4. Random Forest Regression: 
+## 4. Random Forest Regression: 
 Captures complex relationships via ensemble learning.
 
 - A type of ensemble learning model that builds multiple decision trees and merges their results to get a more accurate and stable prediction. It’s great for capturing complex, non-linear relationships.
@@ -208,7 +202,7 @@ Captures complex relationships via ensemble learning.
 - **Microsoft:** The actual values also trend upwards with fluctuations, and the predicted values, although flatter, reflect some variability.
 
 
-#### 5. LSTM (Long Short-Term Memory): 
+## 5. LSTM (Long Short-Term Memory): 
 Ideal for sequential and time-series data.
 
 - LSTM networks are a type of recurrent neural network (RNN) capable of learning long-term dependencies. They are particularly well-suited for tasks where context over extended periods is crucial, such as language modeling, time series forecasting, and speech recognition.
@@ -239,7 +233,7 @@ Ideal for sequential and time-series data.
 The LSTM model demonstrates strong predictive capabilities for stock prices, making it a valuable tool for financial forecasting and informed investment decisions.
 
 
-#### 6. SVM (Support Vector Machines):  
+## 6. SVM (Support Vector Machines):  
 Handles non-linear relationships effectively.
 
 - Originally designed for classification, but can be used in regression (SVR). It works well with non-linear relationships and can model complex relationships between the dependent variable and independent variables.
@@ -277,7 +271,7 @@ Handles non-linear relationships effectively.
 The SVM model effectively predicts stock prices, especially for Microsoft, making it a valuable tool for financial forecasting and investment decisions.
 
 
-#### 7. Principal Component Analysis (PCA): 
+## 7. Principal Component Analysis (PCA): 
 Reduces dimensionality and noise.
 
 - Dimensionality reduction technique. It’s useful for simplifying the dataset, reducing noise, and identifying the most important variables that explain variability in your data, which can improve the performance of other models.
@@ -286,8 +280,31 @@ Reduces dimensionality and noise.
   <img src="https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/DOCS/PCA.png" alt="Streamlit Image 1" width="600" />
   
 </div>
+## Insights
 
-#### Analysis Summary:
+### Explained Variance Ratio
+- **Principal Component 1:** 97.68%
+- **Principal Component 2:** 2.32%
+
+### Visual Analysis
+- The PCA plot shows the distribution of data points along the first two principal components.
+- Most of the variance is captured by the first principal component, indicating it holds the majority of the information about the stock prices.
+
+### Key Insights
+#### 1. Dimensionality Reduction:
+- PCA effectively reduces the complexity of the dataset by capturing nearly all the variance in the first two components.
+
+#### 2. Data Interpretation:
+- The spread of data points across the principal components indicates underlying patterns and relationships between S&P 500 and Microsoft stock prices.
+
+#### 3. Model Efficiency:
+- Using PCA can improve the efficiency of predictive models by reducing the number of features while retaining essential information.
+
+### Conclusion
+PCA demonstrates that the majority of the variance in S&P 500 and Microsoft stock prices is captured by the first principal component, simplifying data analysis and potentially enhancing model performance.
+
+
+## Analysis Summary:
 
 1. **Correlation**: Microsoft shows a higher correlation with the S&P 500, indicating movements more aligned with the overall market, which could provide predictability in market trends.
 2. **Beta**: Microsoft's higher Beta suggests it is more volatile, offering potentially higher risks and returns.
