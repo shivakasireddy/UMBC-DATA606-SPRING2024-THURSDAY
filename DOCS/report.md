@@ -68,16 +68,6 @@ This project aims to analyze the price performance of Microsoft (MSFT) and JP Mo
 
 Accurate prediction of stock prices is critical for investors, traders, and financial institutions as it helps optimize strategies and manage risks. By forecasting potential future price movements, stakeholders can make better-informed decisions regarding buying, selling, or holding assets.
 
-# Streamlit:
-
-- Streamlit is an open-source Python library that makes it easy to create and share beautiful, custom web apps for machine learning and data science.
-- It helps in the project to create a web page and communicate with model for prediction.
-
-
-<div style="text-align: center;">
-  <img src="https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/DOCS/streamlit.png" alt="Streamlit Image 1" width="500" />
-  <img src="https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/DOCS/Streamlit2.png" alt="Streamlit Image 2" width="500" />
-</div>
 
 ## Models Used for Prediction:
 
