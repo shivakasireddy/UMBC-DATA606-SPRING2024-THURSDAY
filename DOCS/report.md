@@ -49,7 +49,7 @@ This analysis is relevant because it provides practical insights for stakeholder
 
 Exploratory Data Analysis (EDA) is a crucial step in understanding the dataset's structure, distribution, and relationships between variables. Let's explore the real estate dataset to gain insights into its features and potential patterns.
 
-[Starting EDA and Complete Code Jupyter Notebook](https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/NOTEBOOK/MG67053_601_CAPSTONE%20(1).ipynb)
+[Starting EDA and Complete Code Jupyter Notebook](https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/NOTEBOOK/MG67053_601_CAPSTONE%20Notebook.ipynb)
 
 
 ### Data Visualization
