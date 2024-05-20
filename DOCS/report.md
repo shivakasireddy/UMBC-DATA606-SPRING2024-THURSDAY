@@ -3,7 +3,7 @@
 
 UMBC Data Science Master Degree Capstone Project 
 Guidance by Prof. Dr. Chaoji (Jay) Wang 
-**Author:** [Shivaramakrishna Reddy Kasireddy](https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/README.md)
+- **Author:** [Shivaramakrishna Reddy Kasireddy](https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/README.md)
 - SPRING 2024 Semester 
 
 
