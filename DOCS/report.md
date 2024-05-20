@@ -2,9 +2,9 @@
 # PRICE PERFORMANCE PREDICTION
 
 UMBC Data Science Master Degree Capstone Project 
-Guidance by Prof. Dr. Chaoji (Jay) Wang 
+-Guidance by Prof. Dr. Chaoji (Jay) Wang 
 - **Author:** [Shivaramakrishna Reddy Kasireddy](https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY/blob/main/README.md)
-- SPRING 2024 Semester 
+  SPRING 2024 Semester 
 
 
 - [Github](https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY)
